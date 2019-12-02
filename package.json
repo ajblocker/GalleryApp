@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Gallery App",
   "main": "index.js",
-  "engines":
-  {
+  "engines": {
     "node": "10.16.3"
   },
   "scripts": {
